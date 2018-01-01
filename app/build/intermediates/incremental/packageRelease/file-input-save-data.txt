@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Mon Nov 20 21:17:34 CST 2017
+2.base=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\res\\resources-release.ap_
+5.file=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\folders\\2000\\1f\\main\\lib\\mips\\libaudiobufferjni.so
+5.set=NATIVE_RESOURCE
+3.base=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\folders\\2000\\1f\\main
+6.file=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
+2.set=ANDROID_RESOURCE
+10.set=NATIVE_RESOURCE
+10.file=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libaudiobufferjni.so
+4.base=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\folders\\2000\\1f\\main
+7.file=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\layout\\main.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\folders\\2000\\1f\\main\\lib\\armeabi\\libaudiobufferjni.so
+5.base=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\folders\\2000\\1f\\main
+8.file=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\folders\\2000\\1f\\main\\lib\\arm64-v8a\\libaudiobufferjni.so
+4.set=NATIVE_RESOURCE
+6.base=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+1.file=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\folders\\2000\\1f\\main\\lib\\x86\\libaudiobufferjni.so
+9.set=ANDROID_RESOURCE
+9.file=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\res\\resources-release.ap_\\AndroidManifest.xml
+10.base=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\folders\\2000\\1f\\main
+1.set=NATIVE_RESOURCE
+7.base=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\res\\resources-release.ap_
+2.file=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\res\\resources-release.ap_\\resources.arsc
+6.set=DEX
+0.base=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\folders\\2000\\1f\\main
+8.base=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\folders\\2000\\1f\\main
+3.file=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\folders\\2000\\1f\\main\\lib\\mips64\\libaudiobufferjni.so
+3.set=NATIVE_RESOURCE
+1.base=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\folders\\2000\\1f\\main
+9.base=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\res\\resources-release.ap_
+4.file=D\:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\folders\\2000\\1f\\main\\lib\\x86_64\\libaudiobufferjni.so
+8.set=NATIVE_RESOURCE
+0.set=NATIVE_RESOURCE

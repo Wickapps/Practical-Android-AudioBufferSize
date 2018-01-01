@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "D:\\AndroidStudioProjects\\AudioBufferSize\\app\\src\\main\\jni\\Android.mk",
+    "D:\\AndroidStudioProjects\\AudioBufferSize\\app\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\SDK\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\AndroidStudioProjects\\AudioBufferSize\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\AndroidStudioProjects\\AudioBufferSize\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi NDK_ALL_ABIS\u003darmeabi NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-23 NDK_OUT\u003dD:/AndroidStudioProjects/AudioBufferSize/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\ndkBuild\\release\\lib clean"
+  ],
+  "libraries": {
+    "audiobufferjni-release-armeabi": {
+      "buildCommand": "D:\\Android\\SDK\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\AndroidStudioProjects\\AudioBufferSize\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\AndroidStudioProjects\\AudioBufferSize\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi NDK_ALL_ABIS\u003darmeabi NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-23 NDK_OUT\u003dD:/AndroidStudioProjects/AudioBufferSize/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\ndkBuild\\release\\lib D:/AndroidStudioProjects/AudioBufferSize/app/build/intermediates/ndkBuild/release/obj/local/armeabi/libaudiobufferjni.so",
+      "toolchain": "toolchain-armeabi",
+      "abi": "armeabi",
+      "artifactName": "audiobufferjni",
+      "files": [
+        {
+          "src": "D:\\AndroidStudioProjects\\AudioBufferSize\\app\\src\\main\\jni\\audiobufferjni.c",
+          "flags": "\"-gcc-toolchain\" \"D:/Android/SDK/ndk-bundle/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv5te-none-linux-androideabi23\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-ID:/AndroidStudioProjects/AudioBufferSize/app/src/main/jni\" \"-DANDROID\" \"-D__ANDROID_API__\u003d23\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"--sysroot\" \"D:/Android/SDK/ndk-bundle/build//../sysroot\" \"-isystem\" \"D:/Android/SDK/ndk-bundle/build//../sysroot/usr/include/arm-linux-androideabi\""
+        }
+      ],
+      "output": "D:\\AndroidStudioProjects\\AudioBufferSize\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi\\libaudiobufferjni.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi": {
+      "cCompilerExecutable": "D:\\Android\\SDK\\ndk-bundle\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}
